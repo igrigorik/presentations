@@ -1,0 +1,24 @@
+# FutureRuby 2009: Lean & Mean Tokyo Cabinet Recipes
+
+Tokyo Cabinet offers a great many features right out of the box: key-value store, ordered traversal, attribute search, schemaless data structures, and even indexing. We’ll explore these features with hands on examples and then delve into the advanced and little known feature of TC: ability to script it with Lua! We’ll explore a number of lean & mean recipes to take TC to the next level. A cache server you say? Perhaps a graph database?
+
+Blog post:
+
+- http://www.igvita.com/2009/07/13/extending-tokyo-cabinet-db-with-lua/
+
+Video of FutureRuby talk ("Lean & Mean Tokyo Cabinet Recipes") on InfoQ:
+
+- http://www.infoq.com/presentations/grigorik-tokyo-cabinet-recipes
+
+Online slides:
+
+- http://www.slideshare.net/igrigorik/lean-mean-tokyo-cabinet-recipes-with-lua
+
+Lua examples and recipes:
+
+- http://www.github.com/igrigorik/tokyo-recipes
+
+Contact:
+
+- Blog: www.igvita.com
+- Twitter: www.twitter.com/igrigorik

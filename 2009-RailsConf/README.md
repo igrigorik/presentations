@@ -1,0 +1,35 @@
+# RailsConf 2009: Building a Mini-Google: High-Performance Computing in Ruby
+
+High-performance computing may not be Ruby’s strength on the surface, but there is a great number of gems and third party packages which are often overlooked when it comes to this topic. We will assume no prior knowledge of PageRank (Google’s ranking algorithm) and will walk through the basic theory and computational challenges behind it. Along the way, we will look at a hands on example of computing PageRank for a 1-million page web, and the tools behind it:
+
+- Ruby GSL – Working with GNU Scientific Library
+- Linalg – Ruby Linear Algebra
+- NArray – Numerical Ruby
+- And others…
+
+As a bonus, you’ll find that the ideas behind PageRank are surprisingly simple and powerful (no math-wiz certification required) and can be easily applied to many existing social and content networks – better recommendations, search, and discovery.
+
+Online slides:
+
+- http://www.slideshare.net/igrigorik/building-mini-google-in-ruby
+
+----------
+
+# RailsConf 2009: Art of the Ruby Proxy for Scale, Performance, and Monitoring
+
+In this session we will first walk through the basics of event-driven architectures and high-performance network programming in Ruby using the EventMachine framework. Then we will examine three hands-on examples of how a simple proxy server, written in less than a hundred lines of code can become an indispensable tool for:
+
+- Performance A/B Testing: duplicating live traffic against multiple servers to compare speed, reliability and format of the response
+- Extending protocols: intercept packets and inject your own functionality into applications such as Memcache, Beanstalkd, and others
+- Traffic analysis: aggregate real-time visitor and performance analytics instead of repeatedly parsing the log files
+
+Online Slides:
+
+- http://www.slideshare.net/igrigorik/ruby-proxies-for-scale-performance-and-monitoring-gogaruco-igvitacom-1396734
+
+----------
+
+Contact:
+
+- Blog: www.igvita.com
+- Twitter: www.twitter.com/igrigorik
