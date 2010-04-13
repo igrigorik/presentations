@@ -1,4 +1,4 @@
-# MeshU 2009: Event-Driven Architectures
+= MeshU 2009: Event-Driven Architectures
 
 A look at the technologies and the architecture behind the emerging real-time web. We will discuss XMPP/Jabber and AMQP protocols and explore the advantages of each over the commonly used HTTP request-response cycle. As part of the workshop we will look at the available tools and libraries and work through simple examples of creating an event driven, real-time service.
 

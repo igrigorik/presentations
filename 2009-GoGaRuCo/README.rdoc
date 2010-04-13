@@ -1,4 +1,4 @@
-# GoGaRuCo 2009: Building Custom Web Proxies in Ruby
+= GoGaRuCo 2009: Building Custom Web Proxies in Ruby
 
 A high-performance proxy server is less than a hundred lines of Ruby code and it is an indispensable tool for anyone who knows how to use it. In this session we will walk through the basics of event-driven architectures and high-performance network programming in Ruby using the EventMachine framework.
 

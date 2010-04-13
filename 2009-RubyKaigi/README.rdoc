@@ -1,4 +1,4 @@
-# RubyKaigi 2009: Ruby C10K challenge - High Performance Networking (case study with EM-Proxy)
+= RubyKaigi 2009: Ruby C10K challenge - High Performance Networking (case study with EM-Proxy)
 
 Ruby is often described as a DSL for web services and the popularity of frameworks such as Rails and Merb is a clear sign of success of the language. However, there is also the ongoing concern of scalability and performance of Ruby based web applications. In this talk we will investigate the challenges and dispel the myths around the Ruby networking stack:
 
