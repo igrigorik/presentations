@@ -1,0 +1,18 @@
+= MySQLConf 2010: Beyond 'gem install MySQL' in Ruby VMs: Alternative Drivers & Architecture
+
+There is much more to MySQL performance in Ruby than ‘gem install mysql’ and syntactic optimizations. Whether you are running Ruby MRI (C version), or JRuby (JVM), or any other Ruby VM, and are looking to optimize your performance architecture (response times or throughput), the architecture and the MySQL driver you choose (yes, there is more than one!) have significant influence on the outcome. Different VM’s expose different behaviors: native threads vs. green threads, a global interpreter lock (GIL) vs. no lock, and result in dramatically different behaviors under load.
+
+In this talk we will look under the hood of the most popular Ruby VM’s and evaluate a number of alternative drivers (mysql gem, mysqlplus, evented-mysql, and others), which can help you significantly improve the performance and throughput of your Ruby+MySQL application.
+
+Blog post:
+
+- http://www.igvita.com/2010/04/15/non-blocking-activerecord-rails/
+
+Online slides:
+
+- http://www.slideshare.net/igrigorik/beyond-gem-install-mysql-in-ruby
+
+Contact:
+
+- Blog: www.igvita.com
+- Twitter: www.twitter.com/igrigorik
